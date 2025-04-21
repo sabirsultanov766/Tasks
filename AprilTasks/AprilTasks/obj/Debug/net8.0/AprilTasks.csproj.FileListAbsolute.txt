@@ -1,0 +1,14 @@
+C:\Users\Sabir\source\repos\AprilTasks\AprilTasks\bin\Debug\net8.0\AprilTasks.exe
+C:\Users\Sabir\source\repos\AprilTasks\AprilTasks\bin\Debug\net8.0\AprilTasks.deps.json
+C:\Users\Sabir\source\repos\AprilTasks\AprilTasks\bin\Debug\net8.0\AprilTasks.runtimeconfig.json
+C:\Users\Sabir\source\repos\AprilTasks\AprilTasks\bin\Debug\net8.0\AprilTasks.dll
+C:\Users\Sabir\source\repos\AprilTasks\AprilTasks\bin\Debug\net8.0\AprilTasks.pdb
+C:\Users\Sabir\source\repos\AprilTasks\AprilTasks\obj\Debug\net8.0\AprilTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sabir\source\repos\AprilTasks\AprilTasks\obj\Debug\net8.0\AprilTasks.AssemblyInfoInputs.cache
+C:\Users\Sabir\source\repos\AprilTasks\AprilTasks\obj\Debug\net8.0\AprilTasks.AssemblyInfo.cs
+C:\Users\Sabir\source\repos\AprilTasks\AprilTasks\obj\Debug\net8.0\AprilTasks.csproj.CoreCompileInputs.cache
+C:\Users\Sabir\source\repos\AprilTasks\AprilTasks\obj\Debug\net8.0\AprilTasks.dll
+C:\Users\Sabir\source\repos\AprilTasks\AprilTasks\obj\Debug\net8.0\refint\AprilTasks.dll
+C:\Users\Sabir\source\repos\AprilTasks\AprilTasks\obj\Debug\net8.0\AprilTasks.pdb
+C:\Users\Sabir\source\repos\AprilTasks\AprilTasks\obj\Debug\net8.0\AprilTasks.genruntimeconfig.cache
+C:\Users\Sabir\source\repos\AprilTasks\AprilTasks\obj\Debug\net8.0\ref\AprilTasks.dll
