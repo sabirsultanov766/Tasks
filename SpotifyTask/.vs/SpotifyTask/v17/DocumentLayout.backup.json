@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Sabir\\source\\repos\\SpotifyTask\\",
+  "WorkspaceRootPath": "C:\\Users\\Sabir\\Desktop\\AB206 Tasks\\SpotifyTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1FCB4A35-C704-4EBB-B6F0-FCD23A9DA4CB}|SpotifyTask\\SpotifyTask.csproj|c:\\users\\sabir\\source\\repos\\spotifytask\\spotifytask\\services\\songservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1FCB4A35-C704-4EBB-B6F0-FCD23A9DA4CB}|SpotifyTask\\SpotifyTask.csproj|c:\\users\\sabir\\desktop\\ab206 tasks\\spotifytask\\spotifytask\\services\\songservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1FCB4A35-C704-4EBB-B6F0-FCD23A9DA4CB}|SpotifyTask\\SpotifyTask.csproj|solutionrelative:spotifytask\\services\\songservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FCB4A35-C704-4EBB-B6F0-FCD23A9DA4CB}|SpotifyTask\\SpotifyTask.csproj|c:\\users\\sabir\\source\\repos\\spotifytask\\spotifytask\\enums\\genreenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FCB4A35-C704-4EBB-B6F0-FCD23A9DA4CB}|SpotifyTask\\SpotifyTask.csproj|solutionrelative:spotifytask\\enums\\genreenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FCB4A35-C704-4EBB-B6F0-FCD23A9DA4CB}|SpotifyTask\\SpotifyTask.csproj|c:\\users\\sabir\\source\\repos\\spotifytask\\spotifytask\\spotifytask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{1FCB4A35-C704-4EBB-B6F0-FCD23A9DA4CB}|SpotifyTask\\SpotifyTask.csproj|solutionrelative:spotifytask\\spotifytask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FCB4A35-C704-4EBB-B6F0-FCD23A9DA4CB}|SpotifyTask\\SpotifyTask.csproj|c:\\users\\sabir\\source\\repos\\spotifytask\\spotifytask\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FCB4A35-C704-4EBB-B6F0-FCD23A9DA4CB}|SpotifyTask\\SpotifyTask.csproj|solutionrelative:spotifytask\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FCB4A35-C704-4EBB-B6F0-FCD23A9DA4CB}|SpotifyTask\\SpotifyTask.csproj|c:\\users\\sabir\\source\\repos\\spotifytask\\spotifytask\\models\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1FCB4A35-C704-4EBB-B6F0-FCD23A9DA4CB}|SpotifyTask\\SpotifyTask.csproj|c:\\users\\sabir\\desktop\\ab206 tasks\\spotifytask\\spotifytask\\models\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1FCB4A35-C704-4EBB-B6F0-FCD23A9DA4CB}|SpotifyTask\\SpotifyTask.csproj|solutionrelative:spotifytask\\models\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FCB4A35-C704-4EBB-B6F0-FCD23A9DA4CB}|SpotifyTask\\SpotifyTask.csproj|c:\\users\\sabir\\source\\repos\\spotifytask\\spotifytask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1FCB4A35-C704-4EBB-B6F0-FCD23A9DA4CB}|SpotifyTask\\SpotifyTask.csproj|c:\\users\\sabir\\desktop\\ab206 tasks\\spotifytask\\spotifytask\\services\\playlistservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FCB4A35-C704-4EBB-B6F0-FCD23A9DA4CB}|SpotifyTask\\SpotifyTask.csproj|solutionrelative:spotifytask\\services\\playlistservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FCB4A35-C704-4EBB-B6F0-FCD23A9DA4CB}|SpotifyTask\\SpotifyTask.csproj|c:\\users\\sabir\\desktop\\ab206 tasks\\spotifytask\\spotifytask\\enums\\genreenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FCB4A35-C704-4EBB-B6F0-FCD23A9DA4CB}|SpotifyTask\\SpotifyTask.csproj|solutionrelative:spotifytask\\enums\\genreenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FCB4A35-C704-4EBB-B6F0-FCD23A9DA4CB}|SpotifyTask\\SpotifyTask.csproj|c:\\users\\sabir\\desktop\\ab206 tasks\\spotifytask\\spotifytask\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FCB4A35-C704-4EBB-B6F0-FCD23A9DA4CB}|SpotifyTask\\SpotifyTask.csproj|solutionrelative:spotifytask\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FCB4A35-C704-4EBB-B6F0-FCD23A9DA4CB}|SpotifyTask\\SpotifyTask.csproj|c:\\users\\sabir\\desktop\\ab206 tasks\\spotifytask\\spotifytask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1FCB4A35-C704-4EBB-B6F0-FCD23A9DA4CB}|SpotifyTask\\SpotifyTask.csproj|solutionrelative:spotifytask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,85 +34,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlaylistServices.cs",
+              "DocumentMoniker": "C:\\Users\\Sabir\\Desktop\\AB206 Tasks\\SpotifyTask\\SpotifyTask\\Services\\PlaylistServices.cs",
+              "RelativeDocumentMoniker": "SpotifyTask\\Services\\PlaylistServices.cs",
+              "ToolTip": "C:\\Users\\Sabir\\Desktop\\AB206 Tasks\\SpotifyTask\\SpotifyTask\\Services\\PlaylistServices.cs",
+              "RelativeToolTip": "SpotifyTask\\Services\\PlaylistServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T08:16:57.057Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "SongServices.cs",
-              "DocumentMoniker": "C:\\Users\\Sabir\\source\\repos\\SpotifyTask\\SpotifyTask\\Services\\SongServices.cs",
+              "DocumentMoniker": "C:\\Users\\Sabir\\Desktop\\AB206 Tasks\\SpotifyTask\\SpotifyTask\\Services\\SongServices.cs",
               "RelativeDocumentMoniker": "SpotifyTask\\Services\\SongServices.cs",
-              "ToolTip": "C:\\Users\\Sabir\\source\\repos\\SpotifyTask\\SpotifyTask\\Services\\SongServices.cs",
+              "ToolTip": "C:\\Users\\Sabir\\Desktop\\AB206 Tasks\\SpotifyTask\\SpotifyTask\\Services\\SongServices.cs",
               "RelativeToolTip": "SpotifyTask\\Services\\SongServices.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwCgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwCMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-20T14:40:35.663Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "GenreEnum.cs",
-              "DocumentMoniker": "C:\\Users\\Sabir\\source\\repos\\SpotifyTask\\SpotifyTask\\Enums\\GenreEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Sabir\\Desktop\\AB206 Tasks\\SpotifyTask\\SpotifyTask\\Enums\\GenreEnum.cs",
               "RelativeDocumentMoniker": "SpotifyTask\\Enums\\GenreEnum.cs",
-              "ToolTip": "C:\\Users\\Sabir\\source\\repos\\SpotifyTask\\SpotifyTask\\Enums\\GenreEnum.cs",
+              "ToolTip": "C:\\Users\\Sabir\\Desktop\\AB206 Tasks\\SpotifyTask\\SpotifyTask\\Enums\\GenreEnum.cs",
               "RelativeToolTip": "SpotifyTask\\Enums\\GenreEnum.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T14:21:45.059Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-20T14:21:45.059Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SpotifyTask",
-              "DocumentMoniker": "C:\\Users\\Sabir\\source\\repos\\SpotifyTask\\SpotifyTask\\SpotifyTask.csproj",
-              "RelativeDocumentMoniker": "SpotifyTask\\SpotifyTask.csproj",
-              "ToolTip": "C:\\Users\\Sabir\\source\\repos\\SpotifyTask\\SpotifyTask\\SpotifyTask.csproj",
-              "RelativeToolTip": "SpotifyTask\\SpotifyTask.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-20T14:20:47.549Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Playlist.cs",
-              "DocumentMoniker": "C:\\Users\\Sabir\\source\\repos\\SpotifyTask\\SpotifyTask\\Models\\Playlist.cs",
+              "DocumentMoniker": "C:\\Users\\Sabir\\Desktop\\AB206 Tasks\\SpotifyTask\\SpotifyTask\\Models\\Playlist.cs",
               "RelativeDocumentMoniker": "SpotifyTask\\Models\\Playlist.cs",
-              "ToolTip": "C:\\Users\\Sabir\\source\\repos\\SpotifyTask\\SpotifyTask\\Models\\Playlist.cs",
+              "ToolTip": "C:\\Users\\Sabir\\Desktop\\AB206 Tasks\\SpotifyTask\\SpotifyTask\\Models\\Playlist.cs",
               "RelativeToolTip": "SpotifyTask\\Models\\Playlist.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-20T14:03:07.702Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Song.cs",
-              "DocumentMoniker": "C:\\Users\\Sabir\\source\\repos\\SpotifyTask\\SpotifyTask\\Models\\Song.cs",
+              "DocumentMoniker": "C:\\Users\\Sabir\\Desktop\\AB206 Tasks\\SpotifyTask\\SpotifyTask\\Models\\Song.cs",
               "RelativeDocumentMoniker": "SpotifyTask\\Models\\Song.cs",
-              "ToolTip": "C:\\Users\\Sabir\\source\\repos\\SpotifyTask\\SpotifyTask\\Models\\Song.cs",
+              "ToolTip": "C:\\Users\\Sabir\\Desktop\\AB206 Tasks\\SpotifyTask\\SpotifyTask\\Models\\Song.cs",
               "RelativeToolTip": "SpotifyTask\\Models\\Song.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T13:50:05.984Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-20T13:50:05.984Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Sabir\\source\\repos\\SpotifyTask\\SpotifyTask\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sabir\\Desktop\\AB206 Tasks\\SpotifyTask\\SpotifyTask\\Program.cs",
               "RelativeDocumentMoniker": "SpotifyTask\\Program.cs",
-              "ToolTip": "C:\\Users\\Sabir\\source\\repos\\SpotifyTask\\SpotifyTask\\Program.cs",
+              "ToolTip": "C:\\Users\\Sabir\\Desktop\\AB206 Tasks\\SpotifyTask\\SpotifyTask\\Program.cs",
               "RelativeToolTip": "SpotifyTask\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T13:35:56.853Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-20T13:35:56.853Z"
             }
           ]
         }

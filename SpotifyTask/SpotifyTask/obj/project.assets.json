@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sabir\\source\\repos\\SpotifyTask\\SpotifyTask\\SpotifyTask.csproj",
+      "projectUniqueName": "C:\\Users\\Sabir\\Desktop\\AB206 Tasks\\SpotifyTask\\SpotifyTask\\SpotifyTask.csproj",
       "projectName": "SpotifyTask",
-      "projectPath": "C:\\Users\\Sabir\\source\\repos\\SpotifyTask\\SpotifyTask\\SpotifyTask.csproj",
+      "projectPath": "C:\\Users\\Sabir\\Desktop\\AB206 Tasks\\SpotifyTask\\SpotifyTask\\SpotifyTask.csproj",
       "packagesPath": "C:\\Users\\Sabir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sabir\\source\\repos\\SpotifyTask\\SpotifyTask\\obj\\",
+      "outputPath": "C:\\Users\\Sabir\\Desktop\\AB206 Tasks\\SpotifyTask\\SpotifyTask\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

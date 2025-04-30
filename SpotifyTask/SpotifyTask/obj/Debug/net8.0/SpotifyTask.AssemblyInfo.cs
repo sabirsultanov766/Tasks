@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpotifyTask")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9d3bd3f75908d11f5c07a4d7d3756ce52789f67")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpotifyTask")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpotifyTask")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
